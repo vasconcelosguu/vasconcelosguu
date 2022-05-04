@@ -59,3 +59,10 @@ object **Gustavo** {
          />
   </a>
   </p>
+<a href="https://github.com/vasconcelosguu">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasconcelosguu&langs_count=7&theme=dracula&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/vasconcelosguu">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=vasconcelosguu&show_icons=true&theme=dracula&line_height=33" alt="**GUSTAVO VASCONCELOS* github stats"/>
+</a>
