@@ -59,4 +59,3 @@ object **Gustavo** {
          />
   </a>
   </p>
-![snake gif](https://github.com/vasconcelosguu/vasconcelosguu/blob/output/github-contribution-grid-snake.svg)
