@@ -1,4 +1,6 @@
-I learning web desenvolviment and software. <strong>I'm passionate about games and programing.</strong>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vasconcelosguuv&color=yellow" alt="Profile views" /> </p>
+
+I leaning web desenvolviment and software. <strong>I'm passionate about games and programing.</strong>
 
 <div align="center">
  
