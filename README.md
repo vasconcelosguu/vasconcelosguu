@@ -17,6 +17,7 @@ I leaning web desenvolviment and software. <strong>I'm passionate about games an
 object **Gustavo** {
  val name = "GUSTAVO VASCONCELOS SALOMÃO"
  val acknowledgements = "DEV FULL STACK STUDENT "
+ val nickname = "Lontra"
  
  val primarySkillset = "HTML, CSS, JavaScript"
  val languages = listOf("HTML", "CSS", "JavaScript") 
