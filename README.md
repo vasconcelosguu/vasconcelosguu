@@ -15,12 +15,12 @@ I leaning web desenvolviment and software. <strong>I'm passionate about games an
 
 ```kotlin
 object **Gustavo** {
- val name = "GUSTAVO VASCONCELOS SALOMÃO"
- val acknowledgements = "DEV FULL STACK STUDENT "
- val nickname = "Lontra"
+ val name = "Gustavo Vasconcelos Salomão"
+ val acknowledgements = "Dev Full Stack Student From TRYBE "
+ val nickname = listOf("Gu, Lontra")
  
- val primarySkillset = "HTML, CSS, JavaScript"
- val languages = listOf("HTML", "CSS", "JavaScript") 
+ val primarySkillset = listOf("HTML, CSS, JavaScript, React.js, React Native")
+ val languages = listOf("HTML", "CSS", "JavaScript", "React.Js", React Native,"Node") 
 }
 ```
 
@@ -29,18 +29,16 @@ object **Gustavo** {
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
 
 ## **In learning**
 
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![mySql](https://img.shields.io/badge/-mySQL-333333?style=flat&logo=mysql)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-
+![Docker](https://img.shields.io/badge/-docker-333333?style=flat&logo=docker)
 
 
 #### Social Media
