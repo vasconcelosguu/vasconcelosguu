@@ -1,5 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vasconcelosguuv&color=yellow" alt="Profile views" /> </p>
-
 I'm looking for my first professional opportunity, preferably in Front-End, and my biggest dream is to transform lives through technology.</strong>
 
 <div align="center">
