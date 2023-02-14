@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vasconcelosguuv&color=yellow" alt="Profile views" /> </p>
 
-I leaning web desenvolviment and software. <strong>I'm passionate about games and programing.</strong>
+I'm looking for my first professional opportunity, preferably in Front-End, and my biggest dream is to transform lives through technology.</strong>
 
 <div align="center">
  
@@ -12,50 +12,56 @@ I leaning web desenvolviment and software. <strong>I'm passionate about games an
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
+```js
+import Desenvolvedor from 'Gustavo';
+class SobreMim extends Desenvolvedor {
+  Name    = 'Gustavo Vasconcelos Salomão';
+  Area   = 'Dev Full Stack Student From TRYBE';
+  Local = 'Borborema/SP';
+}
 
-```kotlin
-object **Gustavo** {
- val name = "Gustavo Vasconcelos Salomão"
- val acknowledgements = "Dev Full Stack Student From TRYBE "
- val nickname = listOf("Gu, Lontra")
- 
- val primarySkillset = listOf("HTML, CSS, JavaScript, React.js, React Native")
- val languages = listOf("HTML", "CSS", "JavaScript", "React.Js", React Native,"Node") 
+class Skills extends Desenvolvedor {
+  linguagens  = ['React.js', 'React Native', 'JavaScript', 'TypeScript', 'Node.js'];
 }
 ```
 
 ## **Languages and Tools:**  
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ## **In learning**
 
-![mySql](https://img.shields.io/badge/-mySQL-333333?style=flat&logo=mysql)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Docker](https://img.shields.io/badge/-docker-333333?style=flat&logo=docker)
+
 
 
 #### Social Media
+
+You can contact me through these social networks if you are interested: </strong>
 
 <p align="left">
 <a href="https://www.instagram.com/vasconcelosgu/">
     <img
       align="center"
-      src="https://img.shields.io/badge/Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=00FFFF"
+      src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
       target="_blank"
     />
   </a>
   
-  <a href="https://www.linkedin.com/in/gustavo-vasconcelos-920535238/">
+  <a href="https://www.linkedin.com/in/vasconcelos-gu/">
     <img
          align="center"
-         src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00FFFF"
+         src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          target="_blank"
          />
   </a>
