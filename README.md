@@ -14,6 +14,7 @@ I'm looking for my first professional opportunity, preferably in Front-End, and 
 import Desenvolvedor from 'Gustavo';
 class SobreMim extends Desenvolvedor {
   Name    = 'Gustavo Vasconcelos Salomão';
+  Age = 19;
   Area   = 'Dev Full Stack Student From TRYBE';
   Local = 'Borborema/SP';
 }
