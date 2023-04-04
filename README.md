@@ -18,11 +18,6 @@ class SobreMim extends Desenvolvedor {
   Area   = 'Dev Full Stack Student From TRYBE';
   Local = 'Borborema/SP';
 }
-
-class Skills extends Desenvolvedor {
-  FrontEndSkills  = ['React.js', 'React Native', 'JavaScript', 'TypeScript'];
-  BackEndSkills = ['TypeScript', 'JavaScript', 'Node.js'];
-}
 ```
 
 ## **Languages and Tools:**  
