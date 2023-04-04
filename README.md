@@ -1,4 +1,4 @@
-I'm looking for my first professional opportunity, preferably in Front-End, and my biggest dream is to transform lives through technology.</strong>
+Full Stack Developer passionate in Front-End applications, my biggest dream is to transform lives through technology.</strong>
 
 <div align="center">
  
