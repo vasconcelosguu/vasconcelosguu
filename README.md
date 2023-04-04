@@ -14,9 +14,9 @@ Full Stack Developer passionate in Front-End applications, my biggest dream is t
 import Desenvolvedor from 'Gustavo';
 class SobreMim extends Desenvolvedor {
   Name    = 'Gustavo Vasconcelos Salomão';
-  Age = 19;
-  Area   = 'Dev Full Stack Student From TRYBE';
+  Area   = 'Dev Full Stack';
   Local = 'Borborema/SP';
+  Age = 19;
 }
 ```
 
