@@ -8,7 +8,7 @@ I'm looking for my first professional opportunity, preferably in Front-End, and 
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
 
-<img align="right" width="330" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+<img align="right" width="250" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
 ```js
 import Desenvolvedor from 'Gustavo';
