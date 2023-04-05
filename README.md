@@ -67,7 +67,15 @@ You can contact me through these social networks if you are interested: </strong
       target="_blank"
     />
   </a>
-  
+ 
+<a href="vasconcelosgu604@gmail.com">
+    <img
+      align="center"
+      src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
+      target="_blank"
+    />
+  </a>
+
   <a href="https://www.linkedin.com/in/vasconcelos-gu/">
     <img
          align="center"
