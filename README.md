@@ -1,14 +1,6 @@
-Full Stack Developer passionate in Front-End applications, my biggest dream is to transform lives through technology.</strong>
 
-<div align="center">
- 
-<img width="300" weigth="250" alt="about" src="https://giffiles.alphacoders.com/215/215373.gif">
 
- </div>
-
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
-
-<img align="right" width="250" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About Me
 
 ```js
 import Desenvolvedor from 'Gustavo';
