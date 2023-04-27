@@ -3,7 +3,7 @@
 ![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Full+Stack+Web+Developer;Student+at+Trybe;)
 
 <p>
-  <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDNiMDI1MjQyODU1MGRhZjRlNzFhOWMzMDhjYzZhNmM4MzA0OTc4ZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3oKIPnAiaMCws8nOsE/giphy.gif" alt="HK" />
+  <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDNiMDI1MjQyODU1MGRhZjRlNzFhOWMzMDhjYzZhNmM4MzA0OTc4ZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3oKIPnAiaMCws8nOsE/giphy.gif" alt="cat" />
 </p>
 
 - 🌱 Passionate in design and Front-End!!
