@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Gustavo Vasconcelos</h1>
-<h3 align="center">Full Stack Developer, student at Trybe.<img src="https://avatars.githubusercontent.com/u/51808343?s=280&v=4" width="25" height="25"/></h3>
 
+![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Full+Stack+Web+Developer;Student+at+Trybe;)
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p>
+  <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDNiMDI1MjQyODU1MGRhZjRlNzFhOWMzMDhjYzZhNmM4MzA0OTc4ZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3oKIPnAiaMCws8nOsE/giphy.gif" alt="HK" />
+</p>
 
-
-- 🌱 I’m full stack web developer passionate in design and Front-End!!
+- 🌱 Passionate in design and Front-End!!
 
 - 📫 How to reach me **vasconcelosgu604@gmail.com**
 
-- ⚡ Fun fact: Games and Music🎵 are the reasons to live.
+- ⚡ Fun fact: Games🎮, Pets🐈 Musics🎵 are the reasons to live.
 
 <br>
 
@@ -61,11 +62,12 @@
 
 <br>
 
+<br/>
 
-<a href="https://github.com/vasconcelosguu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasconcelosguu&langs_count=7&theme=dracula&hide_langs_below=1" />
-</a>
+<h2 align="center">👾Github Stats</h2>
 
-<a href="https://github.com/vasconcelosguu">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vasconcelosguu&show_icons=true&theme=dracula&line_height=33" alt="**GUSTAVO VASCONCELOS* github stats"/>
-</a>
+<p align="center">
+    <img alt="status github, commits, etc..." width="400px" src="https://github-readme-stats.vercel.app/api?username=vasconcelosguu&count_private=true&show_icons=true&custom_title=Github&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8"
+    /> <br>
+    <img alt="most used languages" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasconcelosguu&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c"/>
+</p>
