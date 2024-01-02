@@ -1,6 +1,6 @@
 # Olá! 👋 Eu sou Gustavo Vasconcelos
 
-![Fox GIF](https://media.giphy.com/media/xsE65jaPsUKUo/giphy.gif)
+![Fox GIF](https://static-cdn.jtvnw.net/jtv_user_pictures/7d58f3be-0db6-4d9c-a415-d5f89739fcc7-profile_image-300x300.png)
 
 
 
