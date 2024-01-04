@@ -4,7 +4,7 @@
 
 
 
-Eu sou um entusiasta da tecnologia e um apaixonado por desenvolvimento web. Atualmente, exerço a função de Desenvolvedor Full Stack e estou iniciando minha jornada acadêmica no curso de Ciência da Computação na UNISAGRADO. Possuo um sólido background, tendo concluído um curso técnico na Trybe, o que contribuiu significativamente para o aprimoramento das minhas habilidades em programação.
+Eu sou um entusiasta da tecnologia e um apaixonado por Tecnologia. Atualmente, exerço a função de Desenvolvedor Full Stack e estou iniciando minha jornada acadêmica no curso de Ciência da Computação na UNISAGRADO. Possuo um sólido background, tendo concluído um curso técnico na Trybe, o que contribuiu significativamente para o aprimoramento das minhas habilidades em programação.
 
 ## Sobre Mim:
 
