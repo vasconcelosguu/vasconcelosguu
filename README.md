@@ -27,10 +27,17 @@ Eu sou um entusiasta da tecnologia e um apaixonado por Tecnologia. Atualmente, e
   <img src="https://img.icons8.com/color/48/000000/nextjs" alt="Next.js" />
   <img src="https://img.icons8.com/color/48/000000/vite.png" alt="Vite" />
   <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL" />
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
   <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" />
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
   <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" />
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" />
+  <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" />
+  <img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub" />
 </p>
+
+
+
 
 Obrigado por visitar o meu perfil no GitHub! 😃
