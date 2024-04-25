@@ -4,7 +4,7 @@
 
 
 
-Eu sou um entusiasta da tecnologia e um apaixonado por Tecnologia. Atualmente, exerço a função de Desenvolvedor Full Stack e estou iniciando minha jornada acadêmica no curso de Ciência da Computação na UNISAGRADO. Possuo um sólido background, tendo concluído um curso técnico na Trybe, o que contribuiu significativamente para o aprimoramento das minhas habilidades em programação.
+Atualmente sou estágiario em Planejamento na Paschoalotto, possuo conhecimentos em Desenvolvimento Full Stack e Analise de dados, sou entusiasta da tecnologia e estou Facultando Ciência da Computação.
 
 ## Sobre Mim:
 
