@@ -1,27 +1,21 @@
-# Olá! 👋 Eu sou Gustavo Vasconcelos
+# Hey There, I'm Gustavo Vasconcelos
 
-![Fox GIF](https://static-cdn.jtvnw.net/jtv_user_pictures/7d58f3be-0db6-4d9c-a415-d5f89739fcc7-profile_image-300x300.png)
+Full Stack Developer, I currently work as a Planning Intern at Paschoalotto.
+
+## About Me:
+
+- 👨‍🎓 Currently pursuing a degree in [Computer Science] at Unisagrado!
+- 🎓 Ex-students in [FullStack Development] from Trybe!
+- 📫 Contact By [vasconcelosgudev@gmail.com]!
 
 
-
-Atualmente sou estágiario em Planejamento na Paschoalotto, possuo conhecimentos em Desenvolvimento Full Stack e Analise de dados, sou entusiasta da tecnologia e estou Facultando Ciência da Computação.
-
-## Sobre Mim:
-
-- 🎓 Formado em [Desenvolvimento FullStack] pela [Trybe](https://www.betrybe.com/)!
-- 🎓 Em Formação [Ciência da Computação] pela [Unisagrado](https://unisagrado.edu.br)!
-- 🌱 Estou sempre aprendendo e buscando aprimorar minhas habilidades!
-- 📫 Entre em contato comigo em [vasconcelosgudev@gmail.com]!
-
-## Contate-se comigo
-
-### Redes Sociais:
+### Social:
 <p align="left">
   <a href="https://www.linkedin.com/in/vasconcelos-gu/" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40" width="40" /></a>
   <a href="https://instagram.com/vasconcelosgu/" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" height="40" width="40" /></a>
 </p>
 
-## Linguagens e Ferramentas:
+## Languages & FrameWorks:
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" />
   <img src="https://img.icons8.com/color/48/000000/nextjs" alt="Next.js" />
@@ -35,9 +29,7 @@ Atualmente sou estágiario em Planejamento na Paschoalotto, possuo conhecimentos
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" />
   <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" />
   <img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub" />
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="GitHub" />
+  
 </p>
 
-
-
-
-Obrigado por visitar o meu perfil no GitHub! 😃
