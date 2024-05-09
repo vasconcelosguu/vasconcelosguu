@@ -5,8 +5,8 @@ Full Stack Developer, I currently work as a Planning Intern at Paschoalotto.
 ## About Me:
 
 - 👨‍🎓 Currently pursuing a degree in [Computer Science] at Unisagrado!
-- 🎓 Ex-students in [FullStack Development] from Trybe!
-- 📫 Contact By [vasconcelosgudev@gmail.com]!
+- 🎓 Ex-student in [FullStack Development] from Trybe!
+- 📫 Contact me by [vasconcelosgudev@gmail.com]!
 
 
 ### Social:
