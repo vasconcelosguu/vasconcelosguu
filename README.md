@@ -1,37 +1,77 @@
-# Hey There, I'm Gustavo Vasconcelos
+# 👋 Olá, eu sou o Gustavo Vasconcelos
 
-Full Stack Developer, I currently work as a Planning Intern at Paschoalotto.
+🚀 **Desenvolvedor Full Stack Júnior**, com foco em soluções web, automações e aplicações orientadas a dados.
 
-## About Me:
+---
 
-- 👨‍🎓 Currently pursuing a degree in [Computer Science] at Unisagrado!
-- 🎓 Ex-student in [FullStack Development] from Trybe!
-- 📫 Contact me by [vasconcelosgudev@gmail.com]!
+## 👨‍💻 Sobre mim
 
+- 🎓 Graduando em **Ciência da Computação** pela **Unisagrado**
+- 🧠 Formação em **Desenvolvimento Full Stack** pela **Trybe**
+- 💼 Atuação profissional na **Paschoalotto Serviços Financeiros**, com experiência em **automação, análise de dados e desenvolvimento de soluções**
+- 🔍 Interesse em **Desenvolvimento Full Stack**, **Back-end** e soluções integradas a dados
+- 📫 Contato: **vasconcelosgudev@gmail.com**
 
-### Social:
+---
+
+## 🌐 Conecte-se comigo
 <p align="left">
-  <a href="https://www.linkedin.com/in/vasconcelos-gu/" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40" width="40" /></a>
-  <a href="https://instagram.com/vasconcelosgu/" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" height="40" width="40" /></a>
+  <a href="https://www.linkedin.com/in/vasconcelos-gu/" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/vasconcelosgu/" target="_blank">
+    <img src="https://img.icons8.com/color/48/instagram-new.png" alt="Instagram" />
+  </a>
 </p>
 
-## Languages & FrameWorks:
-<p align="left">
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
-  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" />
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" />
-  <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux" />
-  <img src="https://img.icons8.com/color/48/000000/nextjs" alt="Next.js" />
-  <img src="https://img.icons8.com/color/48/000000/vite.png" alt="Vite" />
-  <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" />
-  <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL" />
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
-  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" />
+---
 
-  <img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub" />
+## 🛠️ Tecnologias
 
-  
+### Linguagens
+<p>
+  <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript"/>
+  <img src="https://img.icons8.com/color/48/python.png" alt="Python"/>
 </p>
 
+### Frameworks & Bibliotecas
+<p>
+  <img src="https://img.icons8.com/color/48/react-native.png" alt="React"/>
+  <img src="https://img.icons8.com/color/48/redux.png" alt="Redux"/>
+  <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js"/>
+  <img src="https://img.icons8.com/color/48/nextjs.png" alt="Next.js"/>
+  <img src="https://img.icons8.com/color/48/vite.png" alt="Vite"/>
+  <img src="https://img.icons8.com/color/48/angularjs.png" alt="Angular"/>
+</p>
+
+### Bancos de Dados
+<p>
+  <img src="https://img.icons8.com/color/48/mysql.png" alt="MySQL"/>
+  <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB"/>
+</p>
+
+### Ferramentas
+<p>
+  <img src="https://img.icons8.com/color/48/docker.png" alt="Docker"/>
+  <img src="https://img.icons8.com/color/48/github--v1.png" alt="GitHub"/>
+</p>
+
+---
+
+## 📌 No que estou trabalhando
+- Aplicações web Full Stack  
+- APIs integradas a bancos de dados  
+- Scripts em Python para automação e análise de dados  
+- Boas práticas de código e melhoria contínua  
+
+---
+
+## 🎯 Objetivos
+- Evoluir como **Desenvolvedor Full Stack Júnior**
+- Fortalecer conhecimentos em **Back-end e Bancos de Dados**
+- Construir projetos reais e escaláveis
+
+---
+
+⭐ Fique à vontade para explorar meus repositórios e se conectar comigo!
