@@ -19,9 +19,6 @@
   <a href="https://www.linkedin.com/in/vasconcelos-gu/" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/vasconcelosgu/" target="_blank">
-    <img src="https://img.icons8.com/color/48/instagram-new.png" alt="Instagram" />
-  </a>
 </p>
 
 ---
